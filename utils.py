@@ -12,8 +12,6 @@ import matplotlib.pyplot as plt
 
 
 from sklearn.metrics import confusion_matrix
-from sklearn.utils.multiclass import unique_labels
-
 
 # def preprocess_review(ReviewText):
 #     ReviewText = ReviewText.str.replace("(<br/>)", "")

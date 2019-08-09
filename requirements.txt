@@ -1,0 +1,9 @@
+tensorflow==1.12.0
+scikit-learn
+nltk
+gensim
+pandas
+numpy
+matplotlib
+imbalanced-learn
+emoji
