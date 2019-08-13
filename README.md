@@ -1,6 +1,6 @@
 # Sentiment Analysis
-Sentiment Analysis on Imbalance Data with sklearn. EDA also included. 
-The data is not cleaned, it includes misspelled word, emojis and some hindi words.
+Sentiment Analysis on imbalanced data with sklearn. EDA also included. 
+The training data is not a clean corpus, it includes misspelled word, emojis and some hindi words.
 
 ## File Info
 utils - text cleaning and confusion matrix functions
